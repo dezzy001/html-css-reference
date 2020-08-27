@@ -33,3 +33,6 @@
 ## CSS Box Model
 * Box Model = Margin -> Border -> Padding ( -> Content )
 * [Introduction of CSS Box Model](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#CSS_all_about_boxes)
+
+## CSS Display
+* In HTML, the elements already have default properties. For example the <img> tag has an inline display by default, so padding/margin's will not apply to it by default (Need to change it to block display).
