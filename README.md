@@ -4,11 +4,7 @@
 
 # Table of Contents
 * [HTML](#html)
-  * [Introduction](#introduction-html)
 * [CSS](#css)
-  * [Introduction](#introduction-css)
-  * [CSS Selectors](#css-selectors)
-
 
 # HTML
 ## Introduction html
@@ -17,6 +13,12 @@
 </a>
 
 * [reference link](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics#Anatomy_of_an_HTML_element)
+
+## Inline vs Blocked elements
+* Block element = Structural elements which take up space in it's own line
+* Inline element = Don't take up space, and can be placed on the same line
+* Block elements should always be higher heirachy than inline elements. I.e inline elements are contained within block elements
+* [reference link](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Block_versus_inline_elements)
 
 # CSS
 ## Introduction css
