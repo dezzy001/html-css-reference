@@ -12,7 +12,7 @@
   <img src="https://media.prod.mdn.mozit.cloud/attachments/2014/11/14/9347/c07aa313dbdd667585430f4eca354dbd/grumpy-cat-small.png" width="550" height="175">
 </a>
 
-* [reference link](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics#Anatomy_of_an_HTML_element)
+* [Reference link](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics#Anatomy_of_an_HTML_element)
 
 ## Inline vs Blocked elements
 * Block element = Structural elements which take up space in it's own line
@@ -26,7 +26,7 @@
   <img src="https://mdn.mozillademos.org/files/9461/css-declaration-small.png" alt="Anatomy_of_a_CSS_ruleset" width="300" height="175">
 </a>
 
-* [reference link](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#Anatomy_of_a_CSS_ruleset)
+* [Reference link](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#Anatomy_of_a_CSS_ruleset)
 
 ## CSS Selectors
 * CSS Selector = defines the HTML element(s) to be styled
