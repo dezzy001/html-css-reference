@@ -38,6 +38,7 @@
 
 ## CSS Display
 * In HTML, the elements already have default properties. For example the <img> tag has an inline display by default, so padding/margin's will not apply to it by default (Need to change it to block display).
+* [Reference Link](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
 
 ## CSS Position
 * [Reference Link](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
